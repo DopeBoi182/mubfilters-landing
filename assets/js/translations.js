@@ -22,6 +22,8 @@ const translations = {
             "subtitle": "Interact with our high-quality cigarette filters in 3D",
             "description": "Experience our premium filter quality through this interactive 3D model. You can rotate, zoom, and examine every detail of our cigarette filters.",
             "instructions": "Use your mouse to rotate, scroll to zoom, and right-click to pan",
+            "regular": "Regular",
+            "capsule": "Capsule",
             "features": {
                 "visualization": "3D Visualization",
                 "visualization.desc": "Examine every detail of our filters",
@@ -237,6 +239,8 @@ const translations = {
             "subtitle": "Berinteraksi dengan filter rokok berkualitas tinggi kami dalam 3D",
             "description": "Rasakan kualitas filter premium kami melalui model 3D interaktif ini. Anda dapat memutar, memperbesar, dan memeriksa setiap detail filter rokok kami.",
             "instructions": "Gunakan mouse untuk memutar, scroll untuk zoom, dan klik kanan untuk menggeser",
+            "regular": "Reguler",
+            "capsule": "Kapsul",
             "features": {
                 "visualization": "Visualisasi 3D",
                 "visualization.desc": "Periksa setiap detail filter kami",
